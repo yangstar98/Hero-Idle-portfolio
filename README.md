@@ -67,7 +67,7 @@
 
 ### 7. 기술 문서
 
-> - https://docs.google.com/presentation/d/1SJ47OXmOFBczRXy3uMhe_4qY1k1nL5Dy_cxkUX4--zY/edit#slide=id.p
+> - https://docs.google.com/presentation/d/e/2PACX-1vSTHNePhp6R7LLXd4MDA7pv9vuVJLWjSHYxOa8lwt3nDf05H6YA2NrIgpywVlcadxjpEa5G73gw35G8/pub?start=false&loop=false&delayms=3000
 
 
 
