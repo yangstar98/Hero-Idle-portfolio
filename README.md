@@ -11,6 +11,10 @@
 > - C#
 > - window 11
 > - Visual Studio 2019
+>
+> **플렛폼**
+>
+> - 모바일
 > 
 >  **형상관리**
 > - GitHub Desktop
@@ -61,7 +65,9 @@
 
 > - [유튜브](https://youtu.be/JWQJ6-yybFE)
 
+### 7. 기술 문서
 
+> - https://docs.google.com/presentation/d/1SJ47OXmOFBczRXy3uMhe_4qY1k1nL5Dy_cxkUX4--zY/edit#slide=id.p
 
 
 
